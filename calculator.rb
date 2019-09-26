@@ -3,4 +3,4 @@ second_number=0
 sum=first_number + second_number
 sum=first_number - second_number
 sum=first_number * second_number
-sum=first_number / second_number.to_f
+sum=first_number / second_number
